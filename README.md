@@ -23,3 +23,5 @@ that's when the monsters start showing it.
 
 #### With an unknown face
 ![zombie_faces](https://i.imgur.com/eNmIngC.png)
+
+@Credit : reda-maizate, sebWNN, LasCC
